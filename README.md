@@ -2,8 +2,10 @@
   <img src="https://media.giphy.com/media/H63N8tk3FujDVmWB2c/giphy.gif" width="100"/>
 </div>
 ---
-💡 &nbsp;I like to find bugs in software.\
-✉️ &nbsp;Email me at mimicria@mail.ru, it's free!\
+💡 &nbsp;I like to find bugs in software.
+
+✉️ &nbsp;Email me at mimicria@mail.ru, it's free!
+
 ### :technologist: My interests :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
