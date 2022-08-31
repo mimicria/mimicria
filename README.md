@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/KBE6zCCuBqZnzsYZyV/giphy.gif" width="100"/>
 </div>
 
-### :man_office_worker: About me :
+### :man_office_worker: About me 🅼🅸🅼🅸🅲🆁🅸🅰️:
 💡 &nbsp;I like to find bugs in software.
 
 ✉️ &nbsp;Email me at mimicria@mail.ru, it's free!
