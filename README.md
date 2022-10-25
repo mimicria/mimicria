@@ -10,6 +10,7 @@
 
 ### :unicorn: My interests :
 <div>
+  <img src="https://raw.githubusercontent.com/AFLplusplus/Website/master/static/aflpp_bg.svg" title="AFLplusplus" alt="AFLplusplus" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
